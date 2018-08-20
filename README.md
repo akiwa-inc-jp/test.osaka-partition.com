@@ -1,0 +1,1 @@
+# test.osaka-partition.com
